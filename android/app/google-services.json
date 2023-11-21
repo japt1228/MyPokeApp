@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388691551749",
+    "project_id": "mypokeapp-d2279",
+    "storage_bucket": "mypokeapp-d2279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388691551749:android:8424890812ef78d8ad5e6c",
+        "android_client_info": {
+          "package_name": "com.example.my_poke_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4BjQGHpm9uRl-ujNy0303wd6Dbh-4MiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
